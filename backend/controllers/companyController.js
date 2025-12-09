@@ -1,4 +1,4 @@
-const Company = require('../models/Company');
+const Company = require('../models/company');
 const FileService = require('../services/fileService');
 
 class CompanyController {
